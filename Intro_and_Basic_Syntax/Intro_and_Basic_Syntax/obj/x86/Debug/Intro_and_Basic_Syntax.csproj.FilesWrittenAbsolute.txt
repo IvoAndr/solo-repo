@@ -1,0 +1,5 @@
+/home/ivaylo/Projects/Intro_and_Basic_Syntax/Intro_and_Basic_Syntax/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ivaylo/Projects/Intro_and_Basic_Syntax/Intro_and_Basic_Syntax/bin/Debug/Intro_and_Basic_Syntax.exe.mdb
+/home/ivaylo/Projects/Intro_and_Basic_Syntax/Intro_and_Basic_Syntax/bin/Debug/Intro_and_Basic_Syntax.exe
+/home/ivaylo/Projects/Intro_and_Basic_Syntax/Intro_and_Basic_Syntax/obj/x86/Debug/Intro_and_Basic_Syntax.exe
+/home/ivaylo/Projects/Intro_and_Basic_Syntax/Intro_and_Basic_Syntax/obj/x86/Debug/Intro_and_Basic_Syntax.exe.mdb

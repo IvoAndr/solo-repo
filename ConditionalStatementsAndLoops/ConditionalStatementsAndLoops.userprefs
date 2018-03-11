@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="ConditionalStatementsAndLoops/ConditionalStatementsAndLoops.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConditionalStatementsAndLoops/OddNumber.cs">
+    <Files>
+      <File FileName="ConditionalStatementsAndLoops/Passed.cs" Line="1" Column="1" />
+      <File FileName="ConditionalStatementsAndLoops/PassedOrFailed.cs" Line="12" Column="17" />
+      <File FileName="ConditionalStatementsAndLoops/BackIn30Minutes.cs" Line="10" Column="4" />
+      <File FileName="ConditionalStatementsAndLoops/MonthPrinter.cs" Line="12" Column="11" />
+      <File FileName="ConditionalStatementsAndLoops/ForeignLanguages.cs" Line="9" Column="45" />
+      <File FileName="ConditionalStatementsAndLoops/TheatrePromotion.cs" Line="9" Column="20" />
+      <File FileName="ConditionalStatementsAndLoops/DivisibleBy3.cs" Line="15" Column="1" />
+      <File FileName="ConditionalStatementsAndLoops/SumOfOddNumbers.cs" Line="14" Column="16" />
+      <File FileName="ConditionalStatementsAndLoops/MultiplicationTable.cs" Line="19" Column="1" />
+      <File FileName="ConditionalStatementsAndLoops/MultiplicationTable2_0.cs" Line="7" Column="17" />
+      <File FileName="ConditionalStatementsAndLoops/NumberChecker.cs" Line="16" Column="3" />
+      <File FileName="ConditionalStatementsAndLoops/OddNumber.cs" Line="7" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
