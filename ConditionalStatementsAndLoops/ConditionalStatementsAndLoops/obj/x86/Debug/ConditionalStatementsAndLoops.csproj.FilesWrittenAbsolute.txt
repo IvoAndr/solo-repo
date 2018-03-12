@@ -1,5 +1,0 @@
-/home/ivaylo/Projects/ConditionalStatementsAndLoops/ConditionalStatementsAndLoops/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/ivaylo/Projects/ConditionalStatementsAndLoops/ConditionalStatementsAndLoops/bin/Debug/ConditionalStatementsAndLoops.exe.mdb
-/home/ivaylo/Projects/ConditionalStatementsAndLoops/ConditionalStatementsAndLoops/bin/Debug/ConditionalStatementsAndLoops.exe
-/home/ivaylo/Projects/ConditionalStatementsAndLoops/ConditionalStatementsAndLoops/obj/x86/Debug/ConditionalStatementsAndLoops.exe
-/home/ivaylo/Projects/ConditionalStatementsAndLoops/ConditionalStatementsAndLoops/obj/x86/Debug/ConditionalStatementsAndLoops.exe.mdb
